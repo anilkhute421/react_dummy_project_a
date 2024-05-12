@@ -1,0 +1,140 @@
+.css-rnmm7m-MuiPaper-root-MuiDialog-paper {
+  overflow: unset !important;
+}
+
+.MuiPaper-root.MuiPaper-elevation.MuiPaper-rounded.MuiPaper-elevation24.MuiDialog-paper.MuiDialog-paperScrollPaper.MuiDialog-paperWidthMd.MuiDialog-paperFullWidth.css-rnmm7m-MuiPaper-root-MuiDialog-paper {
+  overflow: unset !important;
+}
+
+.css-cwpu7v {
+  overflow: unset !important;
+  border-radius: 16px !important;
+}
+
+.css-uhb5lp {
+  overflow-y: unset !important;
+  border-radius: 16px !important;
+}
+
+.css-1t1j96h-MuiPaper-root-MuiDialog-paper {
+  overflow-y: unset !important;
+  border-radius: 16px !important;
+}
+
+.css-rnmm7m-MuiPaper-root-MuiDialog-paper{
+  border-radius: 16px !important;
+}
+
+
+
+.MuiButtonBase-root.MuiIconButton-root.MuiIconButton-edgeEnd.MuiIconButton-sizeMedium.css-1yq5fb3-MuiButtonBase-root-MuiIconButton-root {
+  position: absolute !important;
+  z-index: 99;
+  padding: 0 10px;
+  opacity: 0;
+  width: 80%;
+  height: 100%;
+  top: 10%;
+  bottom: 10%;
+  left: 10%;
+  right: 10%;
+}
+
+.css-slyssw {
+  position: absolute !important;
+  z-index: 99;
+  padding: 0 10px;
+  opacity: 0;
+  width: 80%;
+  height: 100%;
+  top: 10%;
+  bottom: 10%;
+  left: 10%;
+  right: 10%;
+}
+
+/* Multiselect */
+
+.Mui-focused {
+  border-style: none;
+  outline: none !important;
+  border: 1px solid #e1e1e1 !important;
+  box-shadow: 0px 2px 8px #f55a2c !important;
+}
+
+.flex {
+  display: flex;
+}
+
+.flex-space-between {
+  display: flex;
+  justify-content: space-between;
+}
+
+.marginVertical20 {
+  margin: 20px 0;
+}
+
+.marginHorizontal20 {
+  margin: 0 20px;
+}
+
+.paddingVertical20 {
+  padding: 20px 0;
+}
+
+.paddingHorizontal20 {
+  padding: 0 20px;
+}
+
+.justifyLeft {
+  display: flex;
+  justify-content: end;
+}
+
+.marginZero {
+  margin: 0;
+}
+
+.paddingZero {
+  padding: 0;
+}
+
+.mobileResponsive {
+  width: 90%;
+  @media screen and (max-width: 600px) {
+    width: 100%;
+  }
+}
+
+.css-6od3lo-MuiChip-label{
+  color: #F55A2C !important;
+}
+
+.css-33zd80-MuiAutocomplete-root .MuiAutocomplete-tag {
+  background: rgba(245, 90, 44, 0.25);
+}
+
+.css-iqd1hh-MuiButtonBase-root-MuiChip-root .MuiChip-deleteIcon {
+  color: #F55A2C !important;
+}
+
+.css-dqr9h-MuiRating-label {
+  /* cursor: inherit; */
+  padding: 22px;
+
+  @media (max-width: 413px) {
+    padding: 15px;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,5 @@
+{
+  "appService.defaultWebAppToDeploy": "/subscriptions/af5df80d-b876-4688-9a8f-697571871c16/microsoft.web/sites/subscriptions/af5df80d-b876-4688-9a8f-697571871c16/resourceGroups/AqlutDev/providers/Microsoft.Web/sites/AqlutRestaurantFrontEnd",
+  "appService.deploySubpath": ".",
+  "appService.zipIgnorePattern": ["node_modules{,/**}", ".vscode{,/**}"]
+}

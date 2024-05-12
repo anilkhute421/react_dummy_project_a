@@ -1,0 +1,189 @@
+@font-face {
+  font-family: "icomoon";
+  src: url("fonts/icomoon.eot?jgels7");
+  src: url("fonts/icomoon.eot?jgels7#iefix") format("embedded-opentype"),
+    url("fonts/icomoon.ttf?jgels7") format("truetype"),
+    url("fonts/icomoon.woff?jgels7") format("woff"),
+    url("fonts/icomoon.svg?jgels7#icomoon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"],
+[class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: "icomoon" !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-SubMenu:before {
+  content: "\e922";
+}
+.icon-NonVeg .path1:before {
+  content: "\e917";
+  color: rgb(255, 255, 255);
+}
+.icon-NonVeg .path2:before {
+  content: "\e918";
+  margin-left: -1em;
+  color: rgb(255, 0, 0);
+}
+.icon-NonVeg .path3:before {
+  content: "\e91a";
+  margin-left: -1em;
+  color: rgb(255, 0, 0);
+}
+.icon-Orders:before {
+  content: "\e91d";
+}
+.icon-QRMenu:before {
+  content: "\e91e";
+}
+.icon-Veg .path1:before {
+  content: "\e91f";
+  color: rgb(255, 255, 255);
+}
+.icon-Veg .path2:before {
+  content: "\e920";
+  margin-left: -1em;
+  color: rgb(36, 178, 0);
+}
+.icon-Veg .path3:before {
+  content: "\e921";
+  margin-left: -1em;
+  color: rgb(36, 179, 0);
+}
+.icon-Address:before {
+  content: "\e900";
+}
+.icon-Bell:before {
+  content: "\e901";
+}
+.icon-Bio:before {
+  content: "\e902";
+}
+.icon-CloseCross:before {
+  content: "\e903";
+  color: #fff;
+}
+.icon-colorPicker:before {
+  content: "\e904";
+}
+.icon-Cross:before {
+  content: "\e905";
+}
+.icon-Dashboard:before {
+  content: "\e906";
+}
+.icon-Delete:before {
+  content: "\e907";
+  /* color: #f55a2c; */
+}
+.icon-Dining:before {
+  content: "\e908";
+}
+.icon-Discount:before {
+  content: "\e909";
+}
+.icon-Dollor:before {
+  content: "\e90a";
+}
+.icon-DownArrow:before {
+  content: "\e90b";
+}
+.icon-DropDownArrow:before {
+  content: "\e90c";
+  color: #a2a2a2;
+}
+.icon-Edit:before {
+  content: "\e90d";
+  color: #f55a2c;
+}
+.icon-Export:before {
+  content: "\e90e";
+  color: #a1a1a1;
+}
+.icon-Feedback:before {
+  content: "\e90f";
+}
+.icon-Filter:before {
+  content: "\e910";
+  color: #a1a1a1;
+}
+.icon-Filters:before {
+  content: "\e910";
+  color: #F55A2C;
+}
+.icon-Info:before {
+  content: "\e911";
+  color: #fff;
+}
+.icon-Integration:before {
+  content: "\e912";
+}
+.icon-Invoices:before {
+  content: "\e913";
+}
+.icon-Logout:before {
+  content: "\e914";
+  color: #f55a2c;
+}
+.icon-Menu:before {
+  content: "\e915";
+}
+.icon-Message:before {
+  content: "\e916";
+}
+.icon-OpeningTime:before {
+  content: "\e919";
+}
+.icon-PhoneNumber:before {
+  content: "\e91b";
+}
+.icon-Profile:before {
+  content: "\e91c";
+}
+.icon-Search:before {
+  content: "\e928";
+  color: #f55a2c;
+}
+.icon-Shop:before {
+  content: "\e929";
+}
+.icon-Star:before {
+  content: "\e92a";
+  color: #fee149;
+}
+.icon-Tick:before {
+  content: "\e92b";
+  color: #01a601;
+}
+.icon-TimeZone:before {
+  content: "\e92c";
+}
+.icon-Upload:before {
+  content: "\e92d";
+  color: #909090;
+}
+.icon-UserManagement:before {
+  content: "\e92e";
+}
+.icon-Vat:before {
+  content: "\e92f";
+}
+.icon-View:before {
+  content: "\e932";
+}
+.icon-WhatsApp:before {
+  content: "\e933";
+}

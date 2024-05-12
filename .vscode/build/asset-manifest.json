@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5790273b.css",
+    "main.js": "/static/js/main.6ca53b2f.js",
+    "static/media/BackCover.jpg": "/static/media/BackCover.95b8435aafe402c17c85.jpg",
+    "static/media/Background.png": "/static/media/Background.51ce44149688450b67eb.png",
+    "static/media/MainMenu1.png": "/static/media/MainMenu1.da9f2005893c8b097050.png",
+    "static/media/MainMenu.png": "/static/media/MainMenu.db2a3cd1e92fa3ead5ef.png",
+    "static/media/MenuSection.png": "/static/media/MenuSection.5a0eb30a5313b41773bb.png",
+    "static/media/AglutLogo.svg": "/static/media/AglutLogo.75833c466ab6f700a4f2eef2d360f7a6.svg",
+    "index.html": "/index.html",
+    "main.5790273b.css.map": "/static/css/main.5790273b.css.map",
+    "main.6ca53b2f.js.map": "/static/js/main.6ca53b2f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5790273b.css",
+    "static/js/main.6ca53b2f.js"
+  ]
+}
